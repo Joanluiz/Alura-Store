@@ -7,7 +7,7 @@ Este projeto realiza uma análise comparativa do desempenho de diferentes unidad
 - **Python 3.11+**
 - `Pandas` para manipulação de dados
 - `Matplotlib` e `Seaborn` para visualizações estáticas
-- 
+  
 ## 📌 Principais Análises
 1. **Desempenho Financeiro**
    - Receita total por unidade
